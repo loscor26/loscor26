@@ -1,0 +1,1183 @@
+<html xmlns:c="http://java.sun.com/jstl/core">
+   <!--<f:loadBundle basename="es.correos.paq.messages_es_ES" var="msg" />-->
+   <head>
+      <meta content="HTML Tidy for Java (vers. 26 sep 2004), see www.w3.org" name="generator"/>
+      <meta charset="UTF-8"/>
+      <!--<meta http-equiv="X-UA-Compatible" content="IE=8" />-->
+      <meta content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+      <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+      <meta content="deny" http-equiv="X-Frame-Options"/>
+      <meta content="Servicio que te permitirá recibir y enviar paquetes las 24 horas del día 7 días a la semana en tu comunidad de vecinos. Cómodo, discreto y seguro." name="description"/>
+      <meta content="HomePaq, Home Paq, HomePack, enviar paquetes, recibir paquetes, paquetes correos, correos paqueteria, reparto de paquetes, pedido e-commerce, recogida postal, recoger compra online, recibir compras por internet" name="keywords"/>
+      <meta content="Sociedad Estatal de Correos y Telégrafos, S.A." name="organization"/>
+      <meta content="index,follow" name="robots"/>
+      <meta content="1800;url=/ibm_security_logout?logoutExitPage=/pages/login.xhtml" http-equiv="refresh"/>
+      <link href="/javax.faces.resource/theme.css.xhtml?ln=primefaces-aristo" rel="stylesheet" type="text/css"/>
+      <link href="/javax.faces.resource/style.css.xhtml?ln=css" type="text/css" media="screen" rel="stylesheet"/>
+      <link href="/javax.faces.resource/grid.css.xhtml?ln=css" type="text/css" media="screen" rel="stylesheet"/>
+      <link href="/javax.faces.resource/cookiesCss.css.xhtml?ln=css" type="text/css" media="screen" rel="stylesheet"/>
+      <link href="/javax.faces.resource/primefaces.css.xhtml?ln=primefaces&amp;v=4.0" type="text/css" media="screen" rel="stylesheet"/>
+      <script src="/javax.faces.resource/jquery/jquery.js.xhtml?ln=primefaces&amp;v=4.0" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/jquery/jquery-plugins.js.xhtml?ln=primefaces&amp;v=4.0" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/primefaces.js.xhtml?ln=primefaces&amp;v=4.0" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/hotkey/hotkey.js.xhtml?ln=primefaces&amp;v=4.0" type="text/javascript">&lt;!--//--></script>
+      <link type="image/x-icon" href="/favicon.ico" rel="shortcut icon"/>
+      <link href="/resources/images/apple-touch-icon-paq.png" rel="apple-touch-icon-paq"/>
+      <link href="/resources/images/apple-touch-icon-paq-57x57.png" sizes="57x57" rel="apple-touch-icon-paq"/>
+      <link href="/resources/images/apple-touch-icon-paq-72x72.png" sizes="72x72" rel="apple-touch-icon-paq"/>
+      <link href="/resources/images/apple-touch-icon-paq-76x76.png" sizes="76x76" rel="apple-touch-icon-paq"/>
+      <link href="/resources/images/apple-touch-icon-paq-114x114.png" sizes="114x114" rel="apple-touch-icon-paq"/>
+      <link href="/resources/images/apple-touch-icon-paq-120x120.png" sizes="120x120" rel="apple-touch-icon-paq"/>
+      <link href="/resources/images/apple-touch-icon-paq-144x144.png" sizes="144x144" rel="apple-touch-icon-paq"/>
+      <link href="/resources/images/apple-touch-icon-paq-152x152.png" sizes="152x152" rel="apple-touch-icon-paq"/>
+      <script src="/javax.faces.resource/calendar.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/jquery-barcode.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/barcode.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/menuppal.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/responsivemenu.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/cookies.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/modifications-responsiveslides.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/popup.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/style.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/simpleCookies.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <!--[if lt IE 9]>
+                <script type="text/javascript">
+                   document.createElement("nav");
+                   document.createElement("header");
+                   document.createElement("footer");
+                   document.createElement("section");
+                   document.createElement("article");
+                   document.createElement("aside");
+                   document.createElement("hgroup");
+                </script>
+        <![endif]-->
+      <title>Citypaq</title>
+      <style type="text/css">.skip {
+                        position: absolute;
+                        top: -1000px;
+                        left: -1000px;
+                        height: 1px;
+                        width: 1px;
+                        text-align: left;
+                        overflow: hidden;
+                    }
+                    
+                    a.skip:active, 
+                    a.skip:focus, 
+                    a.skip:hover {
+                        left: 0; 
+                        top: 0;
+                        width: auto; 
+                        height: auto; 
+                        overflow: visible; 
+                    }</style>
+      <title/>
+   </head>
+   <body>
+      <!--Google Tag Manager-->
+      <script src="/javax.faces.resource/analytics.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/gtm.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <script src="/javax.faces.resource/linkid.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+      <noscript>
+         <iframe style="display: none; visibility: hidden" width="0" height="0" src="//www.googletagmanager.com/ns.html?id=GTM-N3RQXM"/>
+      </noscript>
+      <script type="text/javascript">//
+                        (function(w,d,s,l,i){
+                                        w[l]=w[l]||[];
+                                        w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
+                                        var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&amp;amp;l='+l:'';
+                                        j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                                })(window,document,'script','dataLayer','GTM-N3RQXM');
+                        $(function(){
+                           $(window).load(function(){
+                                        PF('dialogLoaderCondiciones').hide();
+                                        if ($('#condiciones:visible')) {
+                                                PF('dialogCondiciones').show();
+                                        }
+                                });
+                        });
+                        //</script>
+      <!--End Google Tag Manager-->
+      <a class="skip" href="#principal">Saltar al contenido principal</a>
+      <div class="container sticky-mobile first">
+         <div class="row">
+            <div data-widget="widget_j_id1361930758_38a1ac4d" class="ui-panel ui-widget ui-widget-content ui-corner-all" id="j_id1361930758_38a1ac4d">
+               <div class="ui-panel-content ui-widget-content" id="j_id1361930758_38a1ac4d_content">
+                  <div class="col-lg-12">
+                     <form enctype="application/x-www-form-urlencoded" action="/pages/error.xhtml" method="post" name="j_id1361930758_38a1ac37" id="j_id1361930758_38a1ac37">
+                        <div id="logo">
+                           <script src="/javax.faces.resource/oamSubmit.js.xhtml?ln=org.apache.myfaces" type="text/javascript">&lt;!--//--></script>
+                           <a onclick="return myfaces.oam.submitForm('j_id1361930758_38a1ac37','j_id1361930758_38a1ac37:j_id1361930758_38a1ac11');" href="#">
+                              <img alt="logotipo de Citypaq" src="/resources/images/logo.png"/>
+                           </a>
+                        </div>
+                        <input value="1" name="j_id1361930758_38a1ac37_SUBMIT" type="hidden"/>
+                        <input value="EIb1yQYpC8Nc0kbdy12UHl3tFzjgVwd22QCJxfzscfvs0ONBb0opBzWHbbTlG5QSm3VIGP7YDn5gGYSHBnXOfr/3Qq0rFW/OeEX8QrTyVpy00A5+z0cQTKblCPs=" id="javax.faces.ViewState" name="javax.faces.ViewState" type="hidden"/>
+                     </form>
+                     <div id="login"/>
+                  </div>
+               </div>
+            </div>
+            <script type="text/javascript" id="j_id1361930758_38a1ac4d_s">&lt;!--PrimeFaces.cw('Panel','widget_j_id1361930758_38a1ac4d',{id:'j_id1361930758_38a1ac4d'});
+//--></script>
+         </div>
+      </div>
+      <div id="principal" class="container">
+         <div class="row">
+            <div class="col-lg-12">
+               <div aria-live="polite" class="ui-messages ui-widget" id="messages"/>
+               <form class="form-wrapper" enctype="application/x-www-form-urlencoded" action="/pages/error.xhtml" method="post" name="formularioEnvioError" id="formularioEnvioError">
+                  <div class="contenedor-aviso">
+                     <div data-widget="widget_formularioEnvioError_j_id106232636_277c6ef8" class="ui-panel ui-widget ui-widget-content ui-corner-all" id="formularioEnvioError:j_id106232636_277c6ef8">
+                        <div class="ui-panel-content ui-widget-content" id="formularioEnvioError:j_id106232636_277c6ef8_content">
+                           <fieldset>
+                              <p class="error-message-404">Se ha producido un error</p>
+                              <div class="error-image">
+                                 <img alt="" src="/resources/images/error_404.jpg"/>
+                              </div>
+                              <div class="error-404-buttons">
+                                 <input class="ui-btn ui-btn-action" value="Ir a la página principal" type="submit" name="formularioEnvioError:j_id106232636_277c6e21" id="formularioEnvioError:j_id106232636_277c6e21"/>
+                                 <p>Te informamos que si necesitas realizar cualquier gestión con nuestro servicio de Atención al cliente, puedes llamarnos al 915 197 197. Para más información, consulta nuestras</p>
+                                 <a target="_blank" onclick="enviarDatosAnaliticos('condiciones-servicio');" href="https://www.correos.es/es/es/particulares/recibir/nuestros-puntos-de-entrega-y-recogida/citypaq#03">Condiciones del Servicio</a>
+                                 <br/>
+                                 <br/>
+                                 <a href="https://www.correos.es/es/es/atencion-al-cliente">Atención al cliente</a>
+                              </div>
+                           </fieldset>
+                        </div>
+                     </div>
+                     <script type="text/javascript" id="formularioEnvioError:j_id106232636_277c6ef8_s">&lt;!--PrimeFaces.cw('Panel','widget_formularioEnvioError_j_id106232636_277c6ef8',{id:'formularioEnvioError:j_id106232636_277c6ef8'});
+//--></script>
+                  </div>
+                  <input value="1" name="formularioEnvioError_SUBMIT" type="hidden"/>
+                  <input value="EIb1yQYpC8Nc0kbdy12UHl3tFzjgVwd22QCJxfzscfvs0ONBb0opBzWHbbTlG5QSm3VIGP7YDn5gGYSHBnXOfr/3Qq0rFW/OeEX8QrTyVpy00A5+z0cQTKblCPs=" id="javax.faces.ViewState" name="javax.faces.ViewState" type="hidden"/>
+               </form>
+            </div>
+         </div>
+         <div id="j_id229280865_3fbb3cc5"/>
+         <script type="text/javascript" id="j_id229280865_3fbb3cc5_s">&lt;!--$(function(){PrimeFaces.cw('AjaxStatus','widget_j_id229280865_3fbb3cc5',{id:'j_id229280865_3fbb3cc5',start:function(){PF('statusDialog').show()},error:function(){PF('statusDialog').hide(); fixed_message()},success:function(){PF('statusDialog').hide(); fixed_message();}});});
+//--></script>
+         <div id="loader">
+            <div style="box-shadow: none;" class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow" id="j_id229280865_3fbb3cf8"/>
+            <script type="text/javascript" id="j_id229280865_3fbb3cf8_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','statusDialog',{id:'j_id229280865_3fbb3cf8',draggable:false,resizable:false,modal:true,width:'250',minWidth:250});});
+//--></script>
+         </div>
+      </div>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa15fa">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa15fa_title">CONDICIONES PARTICULARES DE USO DEL SERVICIO CITYPAQ</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <p>
+               Versión 2.0
+               <br/>
+               25.09.2019
+            </p>
+            <div class="tituloCondiciones">CONDICIONES PARTICULARES DE USO DEL SERVICIO CITYPAQ</div>
+            <script type="text/javascript">&lt;!--$(function() {$(document).bind('keydown', 'esc', function(){PF('condicionesServicio').hide();;return false;});});
+//--></script>
+            <div class="modal-botones">
+               <a onclick="PF('condicionesServicio').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa15a3'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa15a3">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper">
+               <p>Las presentes Condiciones Particulares regulan la prestación del servicio Citypaq por parte de la SOCIEDAD ESTATAL CORREOS Y TELÉGRAFOS, S.A., S.M.E.</p>
+               <p>
+                  El servicio Citypaq se realiza a través de distintas modalidades de entrega. Estas modalidades de entrega pueden ser o bien la entrega en las denominadas taquillas inteligentes Citypaq (taquillas Citypaq), o en bien en el denominado Citypaq Garaje el cual se realiza en el garaje particular designado por el usuario, siendo necesario para este servicio que éste disponga previamente de la taquilla HOMYHUB Garaje instalado en el garaje de la entrega (para más información dirigirse al enlace
+                  <u>
+                     <a href="https://homyhub.com/es/" target="_blank">https://homyhub.com/es//</a>
+                  </u>
+               </p>
+               <p>
+                  CORREOS se reserva la facultad de modificar las presentes CONDICIONES PARTICULARES DE USO DEL SERVICIO CITYPAQ. La versión vigente de dichas Condiciones Particulares será la que se encuentre publicada en cada momento en
+                  <u>
+                     <a href="www.citypaq.es" target="_blank">www.citypaq.es</a>
+                  </u>
+                  . La utilización por el usuario del servicio Citypaq implica la aceptación de las Condiciones Particulares vigentes en cada momento.
+               </p>
+               <h2>
+                  <span style="text-decoration:underline">
+                     <strong>1.- Registro para el uso de Citypaq</strong>
+                  </span>
+               </h2>
+               <p style="margin-top: -10px;">El servicio Citypaq, requiere que el usuario efectúe una única vez el registro en el servicio. El acceso al servicio, que permitirá al usuario la utilización de las taquillas Citypaq como punto de recogida y admisión de paquetería, requerirá la previa identificación debiendo facilitar para ello el nombre de usuario y contraseña registrado al darse de alta.</p>
+               <p>
+                  Para la modalidad de entrega en garaje deberá acogerse al servicio de Citypaq Garaje (entrega en garajes privados). En esta modalidad de entrega, el usuario deberá registrarse previamente como usuario de Citypaq (
+                  <a href="http://www.citypaq.es">www.citypaq.es</a>
+                  ), y posteriormente llevar a cabo todos aquellos pasos necesarios para disponer de un dispositivo HOMYHUB instalado correctamente en un garaje. Una vez instalado el dispositivo HOMYHUB, deberá activar el servicio de "Entrega Segura" a través de la aplicación móvil HOMYHUB o accediendo en la página web
+                  <a href="http://www.homyhub.com">www.homyhub.com</a>
+                  , habilitando la Entrega Segura en la sección de Servicios, indicando el usuario de Citypaq con el cual se registró inicialmente.
+               </p>
+               <h2>
+                  <span style="text-decoration:underline">
+                     <strong>2. Condiciones de uso de Citypaq cuyo transporte es operado íntegramente por CORREOS</strong>
+                  </span>
+               </h2>
+               <p style="margin-top: -10px;">Bajo éste epígrafe se regulan las condiciones de uso del servicio Citypaq para aquellos envíos cuyo transporte es contratado por el usuario (o el destinatario) a través de cualquier plataforma de comercio electrónico (en adelante, el remitente del envío) que a su vez utiliza a CORREOS como transportista.</p>
+               <p>CORREOS no cobrará cantidad alguna al usuario/destinatario por el uso del servicio Citypaq..</p>
+               <p>
+                  <strong>2.1)</strong>
+                  La solicitud de entrega de envíos a través de
+                  <strong>Citypaq</strong>
+                  se realizara previo registro del usuario en
+                  <a href="http://www.citypaq.es">www.citypaq.es</a>
+                  , según se trate de compras en tiendas asociadas o no asociadas:
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.1.1</strong>
+                  <span style="text-decoration:underline">
+                     <strong>Compras realizadas en TIENDAS ASOCIADAS a Citypaq</strong>
+                  </span>
+                  <br/>
+                  Al realizar una compra en cualquiera de las tiendas asociadas al servicio Citypaq el comprador seleccionará esta opción desde la página web de la tienda online, introduciendo su usuario de Citypaq que le mostrará el listado de taquillas favoritas, y podrá seleccionar la taquilla donde quiera recibir el envío.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.1.2</strong>
+                  <span style="text-decoration:underline">
+                     <strong>Compras realizadas en TIENDAS NO ASOCIADAS, mediante la utilización de lo que se denomina Dirección de Compras Online</strong>
+                  </span>
+                  <br/>
+                  El usuario deberá utilizar la denominada como "Dirección de Compras Online" indicada en la web de Citypaq o en la aplicación móvil Citypaq. . Dicha Dirección de Compras Online deberá introducirse en el campo que habilita cada tienda online para cumplimentar la dirección de envío del producto comprado por el usuario. Para este servicio, el usuario no podrá optar por contratar ningún servicio ni seguro opcional adicional.
+               </p>
+               <p style="padding-left: 30px;">
+                  Para la modalidad de entrega en taquilla Citypaq, CORREOS comunicará al usuario mediante SMS, correo electrónico, o notificación "push" al número de móvil indicado por el usuario, la entrega del envío en la taquilla seleccionado por el usuario, así como el código de apertura del hueco de la taquilla Citypaq, donde el envío permanecerá disponible para su retirada
+                  <strong>hasta 5 días naturales</strong>
+                  desde dicha comunicación. Una vez trascurrido este plazo sin que el usuario/destinatario haya retirado el envío de la taquilla seleccionada, el envío pasará a estar a disposición del usuario (destinatario del envío) en la Oficina de CORREOS de referencia en función de la dirección de la taquilla seleccionada, donde permanecerá durante 15 días naturales a contar desde el día de recepción del envío en dicha oficina (CORREOS informará al usuario de la dirección donde se encuentra la oficina de referencia para recoger el envío). Transcurrido este plazo sin que el usuario haya recogido el envío, será devuelto al remitente.
+               </p>
+               <p style="padding-left: 30px;">Para la modalidad de entrega en garaje, CORREOS comunicara mediante SMS o email, la entrega del envío en el garaje particular del usuario..</p>
+               <p>
+                  <strong>2.2)</strong>
+                  El usuario que utilice la entrega de sus envíos en
+                  <strong>Citypaq</strong>
+                  , deberá tener en cuenta lo siguiente::
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.1</strong>
+                  CORREOS se compromete a entregar los envíos en los plazos acordados en las condiciones de transporte asociadas al producto de paquetería contratado por el usuario con la plataforma de comercio electrónico (el remitente). La prestación del servicio de entrega en Citypaq en ningún caso interrumpirá los plazos de que disponga el usuario a efectos de cualquier reclamación que, en su caso, quisiera interponer con motivo de la compra realizada..
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.2</strong>
+                  El servicio Citypaq, no admitirá envíos que requieran realizar pagos o trámites (compromisos adquiridos con el vendedor, contra reembolsos, pagos asociados, obligaciones aduaneras, etc...). En caso de que los envíos no cumplan con los requisitos exigidos, éstos serán rehusados y se devolverán al remitente.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.3</strong>
+                  CORREOS devolverá al remitente cualquier envío que pretenda ser entregado en mal estado o deteriorado visiblemente desde el exterior. CORREOS se reserva el derecho de fotografiar los envíos que son recibidos en su Dirección de Compra Online, con el fin de poder acreditar su estado.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.4</strong>
+                  Si el envío excediera de las medidas permitidas para la modalidad de entrega en taquilla, pasará a estar a disposición del usuario (destinatario) en la Oficina de CORREOS de referencia de la dirección de la taquilla seleccionada, donde permanecerá durante 15 días naturales a contar desde el día de recepción del envío en dicha oficina (CORREOS informará al usuario de la dirección donde se encuentre la oficina de referencia para recoger el envío). Transcurrido este plazo, si la recogida no ha sido efectiva por el destinatario, se devolverá el envío al remitente.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.5</strong>
+                  <strong>En la</strong>
+                  <strong>modalidad de entrega en taquilla Citypaq</strong>
+                  el peso máximo para la admisión o entrega es de 30 kg. Las dimensiones máximas que deberán cumplir los envíos para poder realizar la admisión o entrega, dependerá de la tipología de la taquilla (pequeña o grande):
+               </p>
+               <p style="padding-left: 50px;">
+                  Para taquillas Citypaq pequeñas (alto x ancho x profundo) = 60 cm. X 49 cm. X 40 cm.
+                  <br/>
+                  Para taquillas Citypaq grandes (alto x ancho x profundo) = 74 cm. X 42 cm. X 60 cm.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.6</strong>
+                  <strong>Modalidad de entrega en garaje particular</strong>
+                  : : El peso máximo para la entrega en Citypaq Garaje es de 30 kg. Las dimensiones máximas que deberán cumplir los envíos para poder realizar su entrega serán de: LARGO + ALTO + ANCHO no superior 210 cm o 270 cm siempre y cuando la mayor de ella no exceda 170cm.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.7</strong>
+                  La responsabilidad de CORREOS con el remitente del envío, se rige por la Ley de Contrato de Transporte Terrestre de Mercancías (LCTTM), por lo que el destinatario deberá manifestar por escrito sus reservas describiendo de forma general la pérdida o avería en el momento de la recogida del envío en Citypaq, poniéndolo en conocimiento de CORREOS a través de la página web www.citypaq.es o llamando al teléfono de Atención al Cliente dispuesto a tal efecto.
+               </p>
+               <p style="padding-left: 30px;">En caso de averías y pérdidas no manifiestas, las reservas deberán formularse dentro de los siguientes siete (7) días naturales a la entrega..</p>
+               <p style="padding-left: 30px;">El retraso tan sólo podrá dar lugar a indemnización cuando se hayan dirigido reservas escritas al porteador en el plazo de veintiún (21) días naturales desde el día siguiente al de la entrega de las mercancías al destinatario.</p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.8</strong>
+                  En caso de reclamación por parte del usuario, CORREOS se reserva el derecho a recuperar el envío para su inspección y valoración, por lo que el usuario deberá tener a su disposición la mercancía dañada hasta la completa resolución de la reclamación.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.9</strong>
+                  En los supuestos en que el usuario/destinatario seleccione la modalidad de entrega en garaje (Citypaq Garaje), éste será el único responsable del correcto y adecuado estado del garaje en donde el pedido debe entregarse, habiendo habilitado la señalética provista por HOMYHUB para indicar el lugar de entrega concreta dentro de su garaje. Será obligación del usuario/destinatario, velar por el buen uso y cuidado del servicio, permitiendo el acceso al personal de CORREOS deshabilitando el sistema de seguridad de alarma en caso de que hubiera y asegurando que animales domésticos o mascotas no tienen acceso al garaje en el momento de la entrega del envío, de tal modo que la seguridad e integridad de los operarios de CORREOS se encuentra asegurada.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>2.2.10</strong>
+                  <strong>Plazos:</strong>
+                  El cómputo de los plazos que garantiza CORREOS en la prestación del servicio de Citypaq Garaje, comenzará a contar desde que el envío es admitido en la red de CORREOS para su depósito en el garaje particular del usuario.
+               </p>
+               <p style="padding-left: 30px;">
+                  En caso de error o incidencia en cuanto al funcionamiento del dispositivo HOMYHUB el usuario podrá ponerse en contacto con HOMYHUB a través del Teléfono de Atención al Cliente o su app y pagina web
+                  <a href="http://www.homyhub.com">www.homyhub.com</a>
+               </p>
+               <h2>
+                  <span style="text-decoration:underline">
+                     <strong>3. Condiciones de uso de Citypaq para la entrega de envíos no operados por Correos</strong>
+                  </span>
+               </h2>
+               <p style="margin-top: -10px;">Bajo éste punto se encuadran aquellos envíos cuyo transporte es contratado directamente por el usuario con la plataforma de comercio electrónico (en adelante, el remitente del envío), sin que CORREOS intervenga en ninguna fase del transporte, ni en la entrega del envío. CORREOS se limita únicamente a ceder un espacio en la taquilla inteligente Citypaq al operador tercero siendo necesario, que éste tenga suscrito un acuerdo comercial con CORREOS para la cesión del uso de taquillas inteligentes Citypaq.</p>
+               <p>En cualquier caso, en esta operativa el responsable del transporte del envío desde el remitente hasta su efectiva entrega al usuario/destinatario, será siempre el tercer operador (el transportista).</p>
+               <p>Para este servicio, el usuario deberá de emplear la Dirección de Compra Online como mecanismo para la entrega del envío en la taquilla Citypaq elegida.</p>
+               <p>
+                  <strong>3.1</strong>
+                  La modalidad de entrega de los envíos regulados en éste punto, se llevará a cabo en todo el proceso por parte de operador tercero (transportistas terceros) en la Dirección de Compra Online, correspondiente a una taquilla Citypaq designado por el usuario.
+               </p>
+               <p>
+                  <strong>3.2</strong>
+                  El transportista que realice el envío de la mercancía contratado por la tienda online remitente, será responsable de realizar la reserva del hueco (en adelante "cajones") en la taquilla Citypaq, para su posterior entrega y puesto a disposición del usuario. CORREOS no garantizará el usuario de Citypaq la disponibilidad de cajones en el momento en que el transportista realice la reserva para su entrega en la taquilla designada por el usuario a través de la Dirección de Compra Online.
+               </p>
+               <p>
+                  <strong>3.3</strong>
+                  La gestión de incidencias en relación a la no disponibilidad de cajones en la taquilla designada en el momento de la reserva por parte del transportista tercero, será responsabilidad del propio transportista que habilitará los mecanismos que considere oportuno, tanto para informar de la situación como para garantizar la puesta a disposición del envío al usuario Citypaq.
+               </p>
+               <p>
+                  <strong>3.4</strong>
+                  Teniendo en cuenta lo anterior, CORREOS se exime ante el usuario de cualquier responsabilidad en cuanto al cumplimiento de los plazos de entrega comprometidos por no disponibilidad de huecos acordes al tipo de mercancía a entregar en la taquilla seleccionada, siendo responsabilidad del transportista que realiza la entrega.
+               </p>
+               <p>
+                  <strong>3.5</strong>
+                  CORREOS comunicará al usuario mediante SMS, correo electrónico, o notificación "push", la entrega del envío en la taquilla seleccionada por el usuario, así como el código de apertura del cajón de la taquilla correspondiente, donde el envío permanecerá disponible para su retirada hasta 120 horas desde su entrega por el operador tercero. Una vez trascurrido este plazo, CORREOS procederá a comunicar al transportista la no retirada del envío allí ubicado para que proceda a la retirada del mismo, no siendo responsabilidad de CORREOS las condiciones de tratamiento tras la retirada de la mercancía de la taquilla sino del transportista contratado para realizar la entrega por parte del remitente.
+               </p>
+               <p>
+                  <strong>3.6</strong>
+                  El transportista tendrá la potestad de ponerse en contacto con el usuario Citypaq por los medios que articule, para informarle complementariamente sobre la entrega del envío en la taquilla, el código de apertura del hueco en la taquilla seleccionada, la retirada de la mercancía por parte del usuario Citypaq, así como de la posible caducidad del envío entregado y no recogido o cualquier otra operativa relacionada con la entrega en taquillas Citypaq.
+               </p>
+               <p>
+                  <strong>3.7</strong>
+                  La responsabilidad de CORREOS se circunscribe única y exclusivamente frente al transportista, y en cuanto a informarle sobre la disponibilidad de cajones en las taquillas Citypaq, así como su correcto estado y funcionamiento desde la entrega del envío en la taquilla hasta la apertura por el usuario para su retirada.
+               </p>
+               <h2>
+                  <span style="text-decoration:underline">
+                     <strong>4. Envíos desde Taquillas inteligentes Citypaq</strong>
+                  </span>
+               </h2>
+               <p style="margin-top: -10px;">
+                  El usuario registrado en Citypaq podrá utilizar las taquillas Citypaq para sus envíos contratados previamente con los productos Paq Premium ó Paq Estándar. La contratación de los productos Paq Premium o Paq Estándar se podrá hacer a través de la web
+                  <a target="_blank" href="http://www.citypaq.es/">www.citypaq.es</a>
+                  o a través de la aplicación móvil Citypaq. Las condiciones contractuales de dichos productos se pueden consultar en
+                  <a href="http://www.correos.es">www.correos.es</a>
+                  .
+               </p>
+               <p>Una vez contratado el envío bajo cualquiera de las anteriores modalidades anteriormente indicadas, CORREOS comunicará mediante SMS, correo electrónico o notificación "push", la taquilla asignada y el código de apertura del hueco asignado, a fin de que el usuario de Citypaq pueda hacer uso de la taquilla seleccionada, depositando el envío en el plazo indicado por CORREOS para su posterior admisión.</p>
+               <p>
+                  En todo caso, el envío deberá estar debidamente embalado y cumplir las
+                  <a href="https://www.correos.es/ss/Satellite?blobcol=urldata&amp;blobheader=application%2Fpdf&amp;blobheadername0=content-type&amp;blobheadername1=Content-Disposition&amp;blobheadervalue0=application%2Fpdf&amp;blobheadervalue1=filename%3DCondicionado_Paqueteria_Nacional_CorreosModify.pdf&amp;blobkey=id&amp;blobtable=MungoBlobs&amp;blobwhere=1366089747014&amp;ssbinary=true">condiciones del servicio de paquetería contratado</a>
+                  . La verificación de estas obligaciones del usuario, se llevará a cabo en el momento de la ADMISIóN por CORREOS que será en el mismo momento de su retirada de la taquilla por el personal de CORREOS.
+               </p>
+               <p>CORREOS comunicará al usuario la admisión y curso del envío, mediante SMS, correo electrónico o notificación "push"..</p>
+               <p>
+                  Estos envíos serán facturados conforme a las tarifas del servicio de paquetería contratado y en función del tamaño de la taquilla solicitada, cuyas características se especifican
+                  <a target="_blank" href="https://www.correos.es/ss/Satellite/site/pagina-1363186675034/sidioma=es_ES">aquí</a>
+                  .
+               </p>
+               <p>El servicio de admisión en Citypaq será exclusivamente para envíos con destino nacional, excepto Ceuta, Melilla..</p>
+               <p>Las reclamaciones se limitarán a una por envío y su liquidación se considerará definitiva por todas las pérdidas y daños ocasionados en relación con el mismo desde la admisión del envío por parte de CORREOS. El Usuario garantiza que el contenido del envío es aceptable para su transporte por CORRREOS de acuerdo con lo específicamente dispuesto en el condiciones contractuales ya referenciadas anteriormente, así como que el envío está correctamente identificado con la Dirección de Compra, direccionado (Código Postal incluido) y acondicionado para poder efectuar un transporte seguro del mismo con un cuidado razonable en su manipulación, asumiendo directamente las responsabilidades que pudieran derivarse de su incumplimiento..</p>
+               <h2>
+                  <span style="text-decoration:underline">
+                     <strong>5. Miscelánea</strong>
+                  </span>
+               </h2>
+               <p style="padding-left: 30px; margin-top: -10px;">
+                  <strong>5.1 Exclusiones:</strong>
+                  La Dirección de Compra Online a la que aplica el servicio Citypaq solo será válida para compras realizadas en cualquier país de la UE, salvo territorios con distinto régimen fiscal al IVA, excluyéndose entre otros, el servicio para realizadas en Ceuta y Melilla. Estos envíos serán rehusados y se devolverán al remitente.
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>5.2 Exclusión de mercancías:</strong>
+                  El usuario/destinatario no utilizará el servicio Citypaq para recibir envíos que no vengan debidamente embalados y etiquetados, o que se encuentren dentro de los clasificados como sustancias tóxicas, mercancías peligrosas, artículos prohibidos o restringidos, según la normativa postal (Ley 43/2010, RD 1829/1999, Convenio UPU), las Instrucciones Técnicas para el transporte sin riesgos de mercancías peligrosas por vía aérea OACI (Convenio de Chicago sobre aviación civil),Reglamento sobre mercancías peligrosas de la Asociación Internacional de Transporte Aéreo (IATA) y el
+                  <strong>Convenio Europeo sobre Transporte internacional de Mercancías Peligrosas por Carretera (ADR).</strong>
+               </p>
+               <p style="padding-left: 30px;">El usuario/destinatario mantendrá indemne a CORREOS de cualquier daño, reclamación o sanción que se pueda derivar en caso de incumplimiento por el mismo de las obligaciones contenidas en este punto o en la normativa que resulte de aplicación.</p>
+               <p style="padding-left: 30px;">
+                  <strong>5.3 Derecho de desistimiento:</strong>
+                  El usuario de Citypaq podrá darse de baja del servicio Citypaq a través de la web
+                  <a href="http://www.citypaq.es">www.citypaq.es</a>
+                  o la aplicación móvil Citypaq, donde disponer de una forma de baja del servicio. Tras cumplimentar el formulario, la cuenta de usuario en Citypaq quedará definitivamente eliminada y toda la información de la misma así como sus envíos, recepciones e información personal..
+               </p>
+               <p style="padding-left: 30px;">
+                  <strong>5.4 Legislación y jurisdicción:</strong>
+                  La legislación aplicable será la española será la española, y la jurisdicción competente la que corresponda a la capital de provincia del domicilio facilitado por el usuario al darse de alta..
+               </p>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa15fa_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','condicionesServicio',{id:'j_id1671565723_56aa15fa',resizable:false,modal:true,height:'100%',position:'center,top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa158c">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa158c_title">AVISO LEGAL</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <div class="tituloCondiciones">AVISO LEGAL</div>
+            <div class="modal-botones">
+               <a onclick="PF('avisoLegal').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa1562'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa1562">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper">
+               <p>
+                  En cumplimiento de la Ley 34/2002 de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico, el presente aviso legal establece las condiciones de uso del sitio web 
+                  <u>
+                     <a href="http://www.citypaq.es" target="_blank">www.citypaq.es</a>
+                  </u>
+                   titularidad de la Sociedad Estatal Correos y Telégrafos, S.A. (en adelante, Correos), con domicilio social en Vía Dublín nº 7 (Campo de las Naciones) 28070 Madrid (España), CIF número A83052407, e inscrita en el Registro Mercantil de Madrid, Tomo16.665, Libro 0, Folio 20, Sección 8, Hoja M-284323, Inscripción 1ª, puesto a disposición de los usuarios de Internet.
+               </p>
+               <p>Correos está habilitada para prestar servicios postales de conformidad con lo previsto en la Ley 43/2010, de 30 de Diciembre de los Derechos de los Usuarios y del Mercado Postal y para prestar servicios de telecomunicaciones de conformidad con la Ley 32/2003, de 3 de Noviembre, General de Telecomunicaciones.</p>
+               <p>
+                  Para establecer una comunicación directa y efectiva, consulte las páginas de
+                  <u>
+                     <a href="http://www.correos.es/ss/Satellite/site/pagina-atencion_cliente/sidioma=es_ES" target="_blank">Atención al Cliente</a>
+                  </u>
+               </p>
+               <h2>Aceptación</h2>
+               <p>
+                  El acceso al sitio web
+                  <u>
+                     <a href="http://www.citypaq.es" target="_blank">www.citypaq.es</a>
+                  </u>
+                  atribuye la condición de usuario e implica la aceptación plena y sin reservas por parte del usuario, de todas y cada una de las condiciones incluidas en este Aviso legal.
+               </p>
+               <p>El contenido del presente del Aviso legal puede sufrir modificaciones, por lo que su aceptación por parte del usuario, será respecto de la versión del Aviso legal publicado por Correos en el momento en el que el usuario acceda al sitio web.</p>
+               <p>
+                  La utilización de ciertos servicios ofrecidos a través del sitio web
+                  <u>
+                     <a href="http://www.citypaq.es" target="_blank">www.citypaq.es</a>
+                  </u>
+                  puede encontrarse sometida a condiciones particulares que, según los casos, sustituyan, completen y/o modifican el presente Aviso Legal. El acceso a dichos servicios implicará la aceptación de las condiciones particulares establecidas para los mismos. En consecuencia, el usuario deberá leer atentamente las condiciones particulares de servicio cada vez que acceda al mismo.
+               </p>
+               <p>
+                  El acceso al sitio web
+                  <u>
+                     <a href="http://www.citypaq.es" target="_blank">www.citypaq.es</a>
+                  </u>
+                  se encuentra igualmente sometido a todos los avisos, condiciones de uso e instrucciones, puestos en conocimiento del usuario por Correos que sustituyan, completen y/o modifiquen el presente Aviso Legal.
+               </p>
+               <h2>Suscripción de servicios</h2>
+               <p>El acceso a alguno de los servicios que se ofrezcan a través del sitio web, puede estar condicionado a la previa cumplimentación del formulario de registro. A estos efectos el usuario garantiza la autenticidad y veracidad de todos aquellos datos que comunique al cumplimentar el/los formulario/s de suscripción y/o registro. El usuario se compromete y responsabiliza de mantener toda la información facilitada de forma que responda, en cada momento, a su situación real..</p>
+               <p>Las tarifas recogidas en la web en el concepto "Desde" corresponden a tarifas sin impuestos incluidos.</p>
+               <h2>Condiciones de uso</h2>
+               <p>
+                  El usuario se compromete a hacer uso de las utilidades y/o servicios ofrecidos por Correos a través del sitio web
+                  <u>
+                     <a href="http://www.citypaq.es" target="_blank">www.citypaq.es</a>
+                  </u>
+                  de conformidad con la ley, este Aviso legal, las condiciones particulares publicadas para ciertos servicios y demás avisos e instrucciones puestos en su conocimiento, así como con la moral y las buenas costumbres generalmente aceptadas, y el orden público.
+               </p>
+               <p>Todas las marcas, nombres de dominio, nombres comerciales o signos distintivos de cualquier clase que aparecen en el sitio web e identifiquen a Correos o a Citypaq, son propiedad de esta Sociedad. Asimismo, los derechos de explotación de propiedad intelectual sobre los contenidos del sitio web corresponden a Correos tal y como consta en el copyright, por lo que no podrán ser utilizados por el usuario más allá de lo que sea imprescindible para el acceso a las utilidades y servicios suministrados a través del sitio web, salvo autorización expresa de Correos.</p>
+               <p>El usuario se compromete a no reproducir, copiar, distribuir, realizar actos de comunicación pública, transformar o modificar los contenidos del sitio web, incluidos marcas, nombres comerciales o signos distintivos, a menos que cuente con la autorización del titular de los derechos, ni a suprimir manipular o de cualquier forma alterar el copyright y demás datos identificativos de la reserva de derechos..</p>
+               <p>El usuario debe abstenerse de obtener o intentar obtener los contenidos empleando para ello mecanismos distintos de los que, en su caso, se hayan puesto a su disposición o, en general, de los que se empleen habitualmente en Internet siempre que, estos últimos, no entrañen un riesgo de daño o inutilización del sitio web y /o sus contenidos..</p>
+               <p>>Para acceder a la información contenida en el sitio web y hacer uso de los de los servicios ofrecidos, los menores de edad deben obtener previamente permiso de sus padres, tutores o representantes legales..</p>
+               <p>>La responsabilidad en la determinación de los contenidos y servicios a los que acceden los menores de edad corresponde a las personas a cuyo cargo se encuentran. Como a través de Internet es posible acceder a contenidos que pueden ser inapropiados para menores, se informa a los usuarios de la existencia de programas informáticos que permiten limitar o controlar los contenidos a los que pueden acceder los menores..</p>
+               <h2>>Utilización de Cookies</h2>
+               <p>CORREOS le informa de que durante la navegación por el Portal se utilizan cookies, que son pequeños ficheros de datos que se generan en el ordenador del usuario y que permiten a nuestros sistemas recordar las características o preferencias de navegación del usuario. Estas cookies se asocian únicamente con el navegador de un ordenador determinado (un usuario anónimo) sin proporcionar ningún dato personal del usuario. En ningún caso pueden leer informaciones almacenadas en el ordenador, sirviendo exclusivamente para fines internos, como la personalización de la navegación y la generación de estadísticas de acceso a este sitio web que nos permitan mejorar los servicios ofrecidos en el mismo. El usuario tiene la posibilidad de configurar su navegador para ser avisado en pantalla de la recepción de cookies y decidir sobre su aceptación e impedir la instalación de cookies en su disco duro, en su caso. Por favor, consulte las instrucciones y manuales de su navegador para ampliar esta información.</p>
+               <h2>Exclusión de responsabilidad y límite de garantías</h2>
+               <p>
+                  Los datos, textos, informaciones, gráficos o vínculos publicados en el sitio web
+                  <u>
+                     <a href="http://www.citypaq.es" target="_blank">www.citypaq.es</a>
+                  </u>
+                  , son recopilados con efectos meramente informativos para todas aquellas personas interesadas en los mismos sin que, su acceso, genere relación comercial, contractual o profesional entre los usuarios y Correos. En caso de discrepancia entre la información contenida en el sitio web y la contenida en papel, se estará a esta última. Se advierte al usuario que antes de realizar cualquier acción derivada del contenido del sitio web, verifique la información obtenida poniéndose en contacto con el departamento de
+                  <u>
+                     <a href="http://www.correos.es/ss/Satellite/site/pagina-atencion_cliente/sidioma=es_ES" target="_blank">Atención al Cliente</a>
+                  </u>
+               </p>
+               <p>Lo anterior con excepción de aquellos servicios cuya contratación se ofrezca a través del sitio web y su acceso esté sujeto a condiciones particulares publicadas por Correos y aceptadas por el usuario.</p>
+               <p>Correos excluye, con toda la extensión permitida por el ordenamiento jurídico, cualquier responsabilidad por daños y perjuicios producidos o que puedan producirse en el futuro, por defectos técnicos, cualquiera que sea su naturaleza, que se deriven del uso de la información y de las materias contenidas en la web. Los enlaces e hipertexto que, en su caso, posibiliten el acceso a través del sitio web a prestaciones y servicios ofrecidos por terceros, no pertenecen ni se encuentran bajo el control de Correos, por lo que esta Sociedad no se hace responsable ni de la información contenida en los mismos ni de cualesquiera efectos que pudieran derivarse de dicha información.</p>
+               <p>Correos no se hace responsable del incumplimiento de cualquier norma aplicable en que pueda incurrir el usuario en su acceso al sitio web y/o utilización de las informaciones contenidas en la misma. Tampoco se hace responsable del uso ilegítimo que terceras personas puedan hacer de los nombres de marca, nombres de producto, marcas comerciales registradas o no que, no siendo propiedad de Correos, aparezcan en el sitio web.</p>
+               <p>Correos no garantiza la continuidad del funcionamiento y la disponibilidad del sitio web no obstante lo cual, y en la medida de lo posible, advertirá de las interrupciones que conozca con carácter previo a que concurran.</p>
+               <p>Correos no controla ni garantiza la ausencia de virus ni de otro elemento en los servicios prestados por terceros a los que el usuario acceda a través del sitio web, que puedan producir fallo, o alteraciones en su software o hardware, documentos y ficheros almacenados en su sistema informático.</p>
+               <p>En el caso de que el cliente desee utilizar el servicio de avisos de llegada o de alertas relativo a los envíos en distribución mediante la tecnología SMS y/o correo electrónico, que ofrece CORREOS, ambas partes acuerdan lo siguiente:</p>
+               <ul>
+                  <li>El cliente facilitará a CORREOS los datos del número de móvil y/o email del destinatario y del remitente del envío, a fin de que dicho operador postal, en su condición de encargado de tratamiento a los efectos previstos en el artículo 12 de la Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal, comunique al destinatario y/o remitente del envío, la llegada de éste o su puesta a disposición mediante envío de SMS y/o email.</li>
+                  <li>La obligación de comunicación mediante SMS y/o email que asume CORREOS, se llevará a efecto desde las 9:00 horas y las 21:00 de lunes a viernes y desde las 9:00 a 14:00 los sábados.</li>
+                  <li>El cliente reconoce expresamente que el envío por parte de CORREOS de SMS y/o email dentro de los parámetros (horario y días) acordados, no garantiza que dichas comunicaciones vayan a ser recibidas por los destinatarios dentro de los indicados parámetros, por lo que en ningún caso podrá imputarse a CORREOS la eventual no recepción por causas no imputables a CORREOS.</li>
+                  <li>El cliente manifiesta expresamente, y garantiza a CORREOS, que el dato del número de móvil y/o el correo electrónico le ha sido facilitado por el destinatario, y que cuenta con su consentimiento inequívoco para utilizar dicho dato para comunicaciones SMS y/o email dando noticias sobre la llegada de su envío.</li>
+                  <li>El cliente garantiza que el destinatario conoce y asume la posibilidad de que la comunicación por SMS y/o email puedan llegarle fuera de los horarios y días acordados, por razones ajenas a CORREOS. El cliente exonerará a CORREOS de cualquier responsabilidad derivada directa o indirectamente del momento en que se produzca la recepción por el destinatario del SMS y/o email que CORREOS envíe en cumplimiento de las obligaciones asumidas con el cliente a estos efectos.</li>
+               </ul>
+               <br/>
+               <br/>
+               <h2>Protección de datos de carácter personal</h2>
+               <p>
+                  La navegación a través de nuestra página web no requiere su registro previo. No obstante, cuando usted visita nuestra página web, nuestros servidores web almacenan, de forma estándar, información como la dirección IP y el dominio desde el que se obtiene el acceso, la fecha y la hora de la visita, etc. Por otro lado, ciertas funcionalidades de nuestra página web exigen que facilite información adicional a través del correspondiente formulario (p.ej. Su nombre y apellidos, dirección postal o electrónica de contacto, teléfono). Correos tratará sus datos de carácter personal conforme las condiciones publicadas en la
+                  <a href="http://www.citypaq.es/homepaq/politica-privacidad.html" onclick="enviarDatosAnaliticos('ver-politica-privacidad');" target="_blank">Política de Privacidad Web</a>
+                  y, en su caso, a la
+                  <a href="http://www.citypaq.es/homepaq/politica-privacidad.html" onclick="enviarDatosAnaliticos('ver-proteccion-datos');" target="_blank">Política de Protección de Datos</a>
+                  que resulte aplicable a los distintos servicios solicitados.
+               </p>
+               <h2>Legislación y jurisdicción</h2>
+               <p>La legislación aplicable al contenido del sitio web, será la española y la jurisdicción, los Juzgados y Tribunales competentes en España.</p>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa158c_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','avisoLegal',{id:'j_id1671565723_56aa158c',resizable:false,height:'100%',position:'center,top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa154b">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa154b_title"/>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <script type="text/javascript">&lt;!--$(function() {$(document).bind('keydown', 'esc', function(){PF('proteccionDatos').hide();;return false;});});
+//--></script>
+            <div class="modal-botones">
+               <a onclick="PF('proteccionDatos').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa1534'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa1534">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper">
+               <h2>1. Responsable del tratamiento</h2>
+               <p>
+                  El responsable del tratamiento es Sociedad Estatal Correos y Telégrafos, S.A., S.M.E (en adelante, 
+                  <b>Correos</b>
+                  ), con CIF A-83052407 y domicilio social en Vía Dublín nº 7 (Campo de las Naciones) 28070 Madrid (España).
+               </p>
+               <p>
+                  Para garantizar la adecuada gestión de dicho tratamiento, Correos tiene designado un Delegado de Protección de Datos (DPD o DPO), a quién puede dirigirse a través de la siguiente dirección de correo electrónico:
+                  <a href="mailto:dpdgrupocorreos@correos.com">dpdgrupocorreos@correos.com</a>
+               </p>
+               <h2>2. Finalidad del tratamiento y legitimación</h2>
+               <p>El tratamiento de sus datos persigue las siguientes finalidades:</p>
+               <ol type="a">
+                  <li>
+                     <p>
+                        <u>Prestación del servicio CityPaq</u>
+                     </p>
+                     <p>Sus datos serán tratados para: (i) tramitar su registro como usuario/cliente; (ii) prestar los servicios de admisión y entrega de paquetería a través de las taquillas Citypaq seleccionadas por el Cliente, de conformidad con las Condiciones Particulares del Servicio; (iii) tramitar y dar respuesta a sus dudas, consultas o reclamaciones</p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Envío de ofertas y promociones de Citypaq y otros productos o servicios similares</u>
+                     </p>
+                     <p>Correos podrá enviarle, por medios electrónicos, información comercial sobre ofertas y promociones de CityPaq u otros productos o servicios similares a CityPaq.</p>
+                     <p>No obstante, puede oponerse a recibir este tipo de comunicaciones comerciales a través de alguno de los siguientes medios:</p>
+                     <ul style="list-style-type:circle">
+                        <li>
+                           <p>Mediante e-mail dirigido a derechos.protecciondatos.correos@correos.com</p>
+                        </li>
+                        <li>
+                           <p>A través de los mecanismos de baja que se incluyan en todas las comunicaciones comerciales.</p>
+                        </li>
+                     </ul>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Envío de ofertas y promociones del resto de productos y servicios de Correos</u>
+                     </p>
+                     <p>En caso de que preste su consentimiento, Correos podrá remitirle por cualquier canal electrónico o no electrónico información comercial relacionadas con la prestación, mejora y actualización de nuestros productos y servicios, nuevas tarifas y descuentos.</p>
+                     <p>Esta información comercial podrá ser genérica o personalizada. En este último supuesto implicará el previo tratamiento de sus datos con el objetivo de poder proceder a su perfilado y carterización, determinar gustos, preferencias y necesidades y, en base a éstas, identificar las ofertas que puedan resultar más interesantes.</p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Envío de ofertas y promociones de otras empresas del Grupo Correos y de terceras empresas</u>
+                     </p>
+                     <p>En caso de que preste su consentimiento, Correos podrá remitirle por cualquier canal electrónico o no electrónico ofertas y promociones de:</p>
+                     <ul>
+                        <li>
+                           <p>- Otras empresas del Grupo Correos que prestan servicios relacionados con los sectores de: que pertenecen a las actividades de servicios de paquetería, de valor añadido al servicio postal, logística, marketing y de telecomunicación.</p>
+                        </li>
+                        <li>
+                           <p>- Otras empresas con las que Correos haya suscrito distintos convenios de colaboración y que pueden pertenecer a sectores como telecomunicaciones, financiero, gran consumo, sanidad y ONG´S.</p>
+                        </li>
+                     </ul>
+                     <p>Esta información comercial podrá ser genérica o personalizada. En este último supuesto implicará el previo tratamiento de sus datos con el objetivo de poder proceder a su perfilado y carterización, determinar gustos, preferencias y necesidades y, en base a éstas, identificar las ofertas que puedan resultar más interesantes.</p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Comunicación de datos a otras empresas del Grupo Correos y a terceras empresas</u>
+                     </p>
+                     <p>En caso de que preste su consentimiento, Correos podrá comunicar sus datos a las empresas del Grupo Correos y a terceras empresas cuyos sectores se detallan en la finalidad anterior con el objetivo de que estas empresas puedan hacerle llegar, de forma directa y sin la intermediación de Correos, ofertas y promociones relativas a sus productos y servicios.</p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Enriquecer su información</u>
+                     </p>
+                     <p>En caso de que preste su consentimiento, Correos podrá obtener una mayor información sobre sus características, gustos y necesidades a través de la información proporcionada por distintas fuentes externas tales como Registros Públicos, Catastro, Redes Sociales, herramientas de geomarketing, bases de datos de información económica como INFORMA, ficheros de información crediticia como ASNEF, BADEXCUG con el objetivo de introducir mejoras en nuestros productos y servicios y/o adaptar o escoger las ofertas de dichos productos y servicios que mejor se ajusten a su concreto perfil.</p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Cumplir con las obligaciones legales</u>
+                     </p>
+                     <p>Dentro de las distintas obligaciones legales que asume Correos se encuentran las derivadas de la aplicación de la normativa postal (Ley 43/2010 del servicio postal universal, de los derechos de los usuarios y del mercado postal) y el deber de secreto de las comunicaciones (art. 18 de la Constitución), así como la normativa tributaria.</p>
+                     <p>En el cumplimiento de estas obligaciones, Correos podrá comunicar sus datos a las Administraciones Públicas y tribunales, siempre que tal información sea requerida conforme a los procesos legales establecidos.</p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Información estadística y encuestas de satisfacción</u>
+                     </p>
+                     <p>Correos tiene un interés legítimo en conocer tanto la opinión de sus clientes con respecto a sus productos y servicios como sus hábitos de consumo (p.ej. la frecuencia/recurrencia en la contratación de los distintos servicios) con el objetivo de poder ofrecer productos y servicios más ajustados a sus necesidades y mejorar tanto los productos y servicios actuales como su proceso de contratación.</p>
+                     <p>Para lograr el objetivo expuesto en el párrafo anterior, Correos podrá tratar sus datos y:</p>
+                     <ul>
+                        <li>
+                           <p>
+                              - Realizar encuestas de satisfacción tanto telefónicas como por medios electrónicos, incluso una vez deje de ser cliente, en este último caso para conocer los motivos de su marcha.
+                              <br/>
+                              En caso de que durante la encuesta de satisfacción el cliente manifieste su opinión sobre los productos y servicios de alguna de las empresas del Grupo Correos, el resultado de la encuesta y los datos identificativos del participante podrán ser comunicados a la empresa del Grupo Correos cuyos servicios se valoran.
+                           </p>
+                        </li>
+                        <li>
+                           <p>- Proceder a su anonimización, de forma que no pueda volver a vincularse la información de sus hábitos de consumo con su persona y, tras ello, realizar estudios estadísticos y econométricos (p.ej. conocer el ciclo de vida del cliente y/o identificar modelos de propensión al abandono).</p>
+                        </li>
+                     </ul>
+                     <p>Los resultados de las encuestas se tratarán por el plazo de 1 año desde su cumplimentación. A partir de este momento, solo se tratarán datos agregados que no permitan identificar al encuestado.</p>
+                     <h2>3. Tipo de datos tratados</h2>
+                     <p>Para las finalidades expuestas en el apartado anterior se trata un conjunto de datos de carácter personal que podemos dividir en las siguientes fuentes y categorías:</p>
+                     <ol type="a">
+                        <li>
+                           <p>
+                              <u>Datos proporcionados de forma directa:</u>
+                           </p>
+                           <p>En el momento del registro y/o en la propia solicitud del servicio, a través de la cumplimentación de los formularios a tal efecto habilitados.</p>
+                           <p>El cliente garantiza que, los datos facilitados a Correos para la prestación de los servicios solicitados responden con veracidad a la situación real y que comunicará cualquier modificación que afecte a los mismos. En consecuencia, el cliente responderá frente a Correos y terceros de cualesquiera daños o perjuicios ocasionados como consecuencia del incumplimiento de las obligaciones asumidas en esta cláusula.</p>
+                        </li>
+                        <li>
+                           <p>
+                              <u>Datos recabados de forma indirecta:</u>
+                           </p>
+                           <p>Todos aquellos datos que, en caso de haber prestado su consentimiento, Correos recaba de la tipología de fuentes externas enumerada en la finalidad 2.E.</p>
+                        </li>
+                        <li>
+                           <p>
+                              <u>Datos derivados de la propia prestación del servicio:</u>
+                           </p>
+                           <p>Incluyendo información como el histórico de productos y servicios contratados y sus características, reclamaciones o solicitudes de información</p>
+                        </li>
+                     </ol>
+                     <h2>4. Plazo de conservación de los datos</h2>
+                     <p>Durante un período de 6 meses desde que solicite su baja del servicio, Citypaq ofrecerá a sus usuarios la posibilidad de recuperar su antigua cuenta. Transcurrido este período los datos serán suprimidos conforme a lo dispuesto en la normativa de protección de datos lo que implica su bloqueo, estando disponibles tan solo a solicitud de Jueces y tribunales, el Ministerio Fiscal o las Administraciones Públicas competentes durante el plazo de prescripción de las acciones que pudieran derivar para ser posteriormente eliminados. Los plazos de prescripción varían dependiendo del tipo de servicio, a efectos ejemplificativos, con carácter general el plazo de prescripción de la mayoría de acciones civiles personales es de 5 años.</p>
+                     <p>Asimismo, Correos procederá al bloqueo de aquellos clientes que se encuentren inactivos por un plazo de 5 años. Se considerará como cliente inactivo a aquellos usuarios dados de alta en el servicio Citypaq, pero que no lo hayan utilizado para enviar o recibir paquetes desde hace más de 5 años.</p>
+                     <h2>5. Sus derechos</h2>
+                     <p>Nuestra normativa de protección de datos le confiere una serie de derechos en relación con el tratamiento de datos que implican nuestros servicios que podemos resumir en los siguientes:</p>
+                     <ul>
+                        <li>
+                           <p>
+                              -
+                              <u>Derecho de acceso:</u>
+                              Conocer qué tipo de datos estamos tratando y las características del tratamiento que estamos llevando a cabo.
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              -
+                              <u>Derecho de rectificación:</u>
+                              Poder solicitar la modificación de sus datos por ser éstos inexactos o no veraces.
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              -
+                              <u>Derecho de portabilidad:</u>
+                              Poder obtener una copia en un formato interoperable de los datos que estén siendo tratados.
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              -
+                              <u>Derecho a la limitación del tratamiento en los casos recogidos en la Ley.</u>
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              -
+                              <u>Derecho de supresión:</u>
+                              Solicitar la supresión de sus datos cuando el tratamiento ya no resulte necesario.
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              -
+                              <u>Derecho de oposición:</u>
+                              Solicitar el cese en el envío de comunicaciones comerciales en los términos antes señalados.
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              -
+                              <u>Derecho a revocar el consentimiento prestado.</u>
+                           </p>
+                        </li>
+                     </ul>
+                     <p>Puede ejercitar sus derechos a través de alguno de los siguientes canales, indicando el derecho a ejercitar y acompañando copia del Documento Nacional de Identidad o documento equivalente además de cualquier otra documentación que considere oportuna:</p>
+                     <ol type="a">
+                        <li>
+                           <p>
+                              <u>Dirección Postal:</u>
+                              Vía Dublín nº 7 (Campo de las Naciones) 28070 Madrid (España)
+                           </p>
+                        </li>
+                        <li>
+                           <p>
+                              <u>Correo Electrónico:</u>
+                              <a href="mailto:derechos.protecciondatos.correos@correos.com">derechos.protecciondatos.correos@correos.com</a>
+                           </p>
+                        </li>
+                     </ol>
+                     <p>Asimismo, todas las comunicaciones comerciales electrónicas incluirán un mecanismo de baja o similar que le permitirá, si así lo desea, no recibir nuevas comunicaciones.</p>
+                     <p>En la página web de la Agencia Española de Protección de Datos (AEPD) puede encontrar una serie de modelos que le ayudarán en el ejercicio de sus derechos. Asimismo, le informamos tiene derecho a interponer una reclamación ante la autoridad de control (en España, la AEPD) en caso de que considere infringidos sus derechos.</p>
+                     <h2>6. Acceso a datos de terceros</h2>
+                     <p>Para la prestación de determinados servicios puede ser preciso que nos facilite los datos personales y de contacto de terceras personas como, p.ej., el nombre, apellidos, dirección postal, dirección de correo electrónico, teléfono de contacto y otros datos o medios equivalentes de contacto del destinatario de una comunicación o envío.</p>
+                     <p>Correos exclusivamente tratará estos datos para proceder a la entrega de la comunicación o del envío. Adicionalmente, con el objetivo de la mejor prestación del servicio, el número de teléfono o la dirección de correo electrónico podrán ser utilizados con el objetivo de informar al destinatario sobre las fechas estimadas de entrega y tratar cualquier incidencia que pudiera afectar a la misma.</p>
+                     <p>En este sentido, el cliente garantiza la veracidad y actualización de los datos del destinatario y, en su caso, asegura haber cumplido con todas aquellas obligaciones que, en materia de protección de datos, le resulten atribuibles, habiendo obtenido el consentimiento del destinatario a que Correos lleve a cabo el tratamiento expuesto en los párrafos precedentes, en caso de ser tal consentimiento necesario.</p>
+                     <p>Por su parte, en caso de que el usuario sea una empresa o profesional que permite a Correos el acceso a los datos de carácter personal bajo su responsabilidad para la prestación de alguno de nuestros servicios, Correos se compromete a cumplir todas las obligaciones inherentes a su posición como encargado de tratamiento y, en este sentido:</p>
+                     <ul>
+                        <li>
+                           <p>- Accederá y tratará los datos a los que tenga acceso sujeto a sus instrucciones, no utilizándolos para finalidades distintas de la prestación del servicio. Para ello, podrá contar con los servicios de otros terceros (subencargados), si resulta necesario para la prestación del servicio y operaciones del contrato y/o para su conservación y siempre que (i) el nuevo encargado quede sujeto a las mismas condiciones (instrucciones, obligaciones, medidas de seguridad) y con los mismos requisitos formales que él, en lo referente al adecuado tratamiento de los datos personales y a la garantía de los derechos de las personas afectadas; (ii) Correos a solicitud expresa ponga a su disposición un listado en el que se identifiquen los servicios subencargados y la identidad de los subencargados; (iii) En caso de incumplimiento por parte del subencargado, Correos continúe siendo plenamente responsable.</p>
+                        </li>
+                        <li>
+                           <p>- Implementará las medidas de seguridad legales, técnicas y organizativas apropiadas para garantizar un nivel de seguridad adecuado al riesgo, conforme a lo expuesto en el art. 32 del RGPD y, a su solicitud, le informará de la metodología de análisis de riesgo utilizada.</p>
+                        </li>
+                        <li>
+                           <p>- Cumplida la prestación contractual, destruirá o devolverá los datos tratados, así como también cualesquiera soportes o documentos en que consten datos objeto del tratamiento, sin perjuicio de la posibilidad de conservar estos datos, debidamente bloqueados, en los términos previstos por nuestra normativa de protección de datos.</p>
+                        </li>
+                        <li>
+                           <p>- Asegurará el cumplimiento del resto de obligaciones recogidas en la normativa de protección de datos.</p>
+                        </li>
+                     </ul>
+                  </li>
+               </ol>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa154b_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','proteccionDatos',{id:'j_id1671565723_56aa154b',resizable:false,modal:true,height:'100%',position:'center,top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa1515">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa1515_title">POLÍTICA DE PRIVACIDAD</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <div class="tituloCondiciones">POLÍTICA DE PRIVACIDAD</div>
+            <div class="modal-botones">
+               <a onclick="PF('politicaPrivacidad').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa14f3'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa14f3">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper">
+               <p>Para todas las empresas del Grupo Correos respetar su privacidad y cumplir con la normativa de protección de datos es un aspecto de vital importancia.</p>
+               <p>
+                  Nuestro deseo es que en todo momento conozca para qué utilizamos, o queremos utilizar, sus datos y cuáles son sus derechos. Con este objetivo, hemos redactado los siguientes términos de Protección de Datos (
+                  <b>Política de Privacidad Web</b>
+                  ) que regula el tratamiento de datos que se llevará a cabo cuando cualquier Usuario navegue por nuestra página web www.citypaq.es, de cualquiera de sus subdominios o de otras webs de Correos en cuyo footer se muestre esta Política de Privacidad.
+               </p>
+               <p>La presente Política de Privacidad Web podrá ser objeto de modificación para cualquier adaptación legal a futuras novedades legislativas o jurisprudenciales, así como prácticas de la industria. En cualquier caso, el tratamiento de datos del usuario será regulado por la Política de Protección de datos que estuviese vigente en el momento de la navegación.</p>
+               <h4>1. ¿Quién tratará sus datos?</h4>
+               <p>
+                  El responsable del tratamiento es Sociedad Estatal Correos y Telégrafos, S.A., S.M.E (en adelante, 
+                  <b>Correos</b>
+                  ), El responsable del tratamiento es Sociedad Estatal Correos y Telégrafos, S.A., S.M.E (en adelante.
+               </p>
+               <p>
+                  Para garantizar la adecuada gestión de dicho tratamiento, Correos tiene designado un Delegado de Protección de Datos (DPD o DPO), a quién puede dirigirse a través de la siguiente dirección de correo electrónico:
+                  <a href="mailto:dpdgrupocorreos@correos.com">dpdgrupocorreos@correos.com</a>
+               </p>
+               <h4>2. ¿Para qué se tratarán sus datos y por qué?</h4>
+               <p>Los datos de carácter personal del Usuario serán utilizados para las siguientes finalidades:</p>
+               <ol type="1">
+                  <li>
+                     <p>Permitir la navegación a través de nuestra página web.</p>
+                  </li>
+                  <li>
+                     <p>
+                        En caso de que acepte nuestra
+                        <a target="_blank" onclick="enviarDatosAnaliticos('politica-cookies');" href="http://www.citypaq.es/homepaq/politica-de-cookies.html">Política de Cookies</a>
+                        : Analizar su navegación para optimizar la estructura y diseño de la web (p.ej. ver qué espacios de la web son más visitados, cuál es el tiempo de estancia medio) y realizar publicidad comportamental y/o personalizada.
+                     </p>
+                  </li>
+               </ol>
+               <p>Por último, nuestra página web dispone de distintos formularios que le permiten solicitar información sobre alguno de nuestros productos y/o servicios, contratarlos o contactar con nosotros por otros motivos. En caso de utilizar estos formularios, los datos incorporados a los mismos serán tratados para tramitar su solicitud. En cualquier caso, con carácter previo al uso de los distintos formularios web, se le informará sobre el tratamiento que se efectuará de sus datos -en caso de que difiera del tratamiento previsto en la presente Política de Privacidad Web- y se le solicitarán los consentimientos que, en cada caso, resulten necesarios.</p>
+               <h4>3. ¿Qué datos serán tratados?</h4>
+               <p>Trataremos sus datos personales que se obtienen a través de su navegación por nuestra página web, incluyendo:</p>
+               <ol type="a">
+                  <li>
+                     <p>
+                        <u>Datos facilitados de forma directa por el Usuario:</u>
+                     </p>
+                     <p>La navegación a través de nuestra página web no requiere su registro previo. No obstante, cuando usted visita nuestra página web, nuestros servidores web almacenan, de forma estándar, información como la dirección IP y el dominio desde el que se obtiene el acceso, la fecha y la hora de la visita, etc.</p>
+                     <p>Por otro lado, ciertas funcionalidades de nuestra página web exigen que facilite información adicional a través del correspondiente formulario (p.ej. Su nombre y apellidos, dirección postal o electrónica de contacto, teléfono).</p>
+                     <p>Salvo que expresamente se indique lo contrario, todos los campos recogidos en el formulario serán obligatorios, por lo que la falta de información impedirá la tramitación de su solicitud.</p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Datos facilitados de forma indirecta por el Usuario:</u>
+                     </p>
+                     <p>
+                        A través de su navegación, pueden instalarse en su dispositivo distintas cookies de conformidad con lo establecido en nuestra
+                        <a target="_blank" onclick="enviarDatosAnaliticos('politica-cookies');" href="http://www.citypaq.es/homepaq/politica-de-cookies.html">Política de Cookies</a>
+                        .
+                     </p>
+                  </li>
+               </ol>
+               <h4>4. ¿Qué datos serán tratados?</h4>
+               <p>Con carácter general no se prevé que sus datos sean comunicados a otras personas distintas de Correos. No obstante, pueden darse las siguientes excepciones:</p>
+               <ul>
+                  <li>
+                     <p>Para cumplir con la ley podemos vernos obligados a tener que comunicar sus datos a otros terceros como Administraciones Públicas (p.ej. FCSE) o tribunales.</p>
+                  </li>
+                  <li>
+                     <p>Para poder prestarle el mejor servicio en la navegación a través de nuestra página web y tramitar su solicitud podemos tener que comunicar sus datos a otras empresas del Grupo Correos dedicadas a los sectores de paquetería, de valor añadido al servicio postal, logística, marketing y de telecomunicación. Así, por ejemplo, si solicita información sobre soluciones multicanal de marketing directo sus datos serán comunicados a NEXEA Gestión Documental S.A., S.M.E para que tramite la respuesta.</p>
+                  </li>
+               </ul>
+               <h4>5. ¿Qué datos serán tratados?</h4>
+               <p>Los datos personales serán conservados exclusivamente durante el plazo necesario para permitir su navegación por la página web, analizar su navegación (en caso de aceptación de la política de cookies) o tramitar sus solicitudes de servicio a través de la página web. En el momento en que dejen de ser necesarios, los datos serán suprimidos conforme a lo dispuesto en la normativa de protección de datos lo que implica su bloqueo, estando disponibles tan solo a solicitud de Jueces y tribunales, el Ministerio Fiscal o las Administraciones Públicas competentes durante el plazo de prescripción de las acciones que pudieran derivar y, transcurrido el período de bloqueo, su completa eliminación. A efectos ejemplificativos, en los casos más habituales se estará al plazo de prescripción de 3 años derivado de la normativa de protección de datos.</p>
+               <p>En cualquier caso, si al finalizar la relación contractual existieran litigios pendientes, los datos podrán conservarse durante su tramitación procesal y exclusivamente con fines probatorios, en tanto no recaiga resolución definitiva, momento en el cual se procederá a su bloqueo y posterior borrado.</p>
+               <h4>6. ¿Se comunicarán sus datos a terceros?</h4>
+               <p>En la medida en que estén reconocidos en la normativa de protección de datos aplicable en cada momento, el Usuario podrá ejercer los siguientes derechos en relación con el tratamiento de sus datos:</p>
+               <ol type="a">
+                  <li>
+                     <p>
+                        <u>Derecho de acceso:</u>
+                        si ejerce este derecho, podrá conocer qué tipo de datos estamos tratando y las características del tratamiento que estamos llevando a cabo.
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Derecho de rectificación:</u>
+                        si ejerce este derecho, podrá solicitar la modificación de sus datos por ser éstos inexactos o no veraces.
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Derecho de portabilidad:</u>
+                        si ejerce este derecho, podrá obtener una copia en un formato interoperable de los datos que estén siendo tratados.
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Derecho a la limitación en el tratamiento de datos:</u>
+                        si ejerce este derecho, podrá limitar el tratamiento de sus datos en los casos recogidos en la Ley.
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Derecho de oposición:</u>
+                        si ejerce este derecho, podrá oponerse al tratamiento de sus datos y solicitar el cese en el envío de comunicaciones comerciales.
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Derecho de supresión:</u>
+                        si ejerce este derecho, podrá solicitar la supresión de sus datos cuando el tratamiento ya no resulte necesario.
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Derecho a revocar el consentimiento prestado.</u>
+                     </p>
+                  </li>
+               </ol>
+               <p>Puede ejercitar sus derechos a través de alguno de los siguientes canales::</p>
+               <ol type="a">
+                  <li>
+                     <p>
+                        <u>Dirección Postal:</u>
+                        Vía Dublín nº 7 (Campo de las Naciones) 28070 Madrid (España)
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <u>Correo Electrónico:</u>
+                        <a href="mailto:derechos.protecciondatos.correos@correos.com">derechos.protecciondatos.correos@correos.com</a>
+                     </p>
+                  </li>
+                  <li style="list-style: none">
+                     <p>En la página web de la Agencia Española de Protección de Datos (AEPD) puede encontrar una serie de modelos que le ayudarán en el ejercicio de sus derechos. Asimismo, le informamos tiene derecho a interponer una reclamación ante la autoridad de control (en España, la AEPD) en caso de que considere infringidos sus derechos.</p>
+                  </li>
+               </ol>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa1515_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','politicaPrivacidad',{id:'j_id1671565723_56aa1515',resizable:false,height:'100%',position:'center,top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa14dc">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa14dc_title">POLÍTICA DE PRIVACIDAD Y SORTEO DE HOMYHUB</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <div class="tituloCondiciones">ENVÍO DE OFERTAS Y PROMOCIONES DEL RESTO DE PRODUCTOS Y SERVICIOS DE CORREOS</div>
+            <script type="text/javascript">&lt;!--$(function() {$(document).bind('keydown', 'esc', function(){PF('politicaPrivacidadHH').hide();;return false;});});
+//--></script>
+            <div class="modal-botones">
+               <a onclick="PF('politicaPrivacidadHH').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa14bd'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa14bd">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper popupGDPR">
+               <ol>
+                  <li>Para participar en el sorteo es requisito indispensable registrar su dirección de correo electrónico en el Formulario de muestra de interés en el servicio Citypaq Garaje y que la suscripción no se haya dado de baja en la fecha del sorteo.</li>
+                  <li>Se aceptará un solo registro por suscriptor.</li>
+                  <li>Para participar en el sorteo no es necesario haber contratado el servicio de Correos Citypaq ni de HOMYHUB.</li>
+                  <li>Los suscriptores deberán ser mayores de edad y residentes en España.</li>
+                  <li>No podrán participar en el sorteo los empleados de HOMYHUB o sus familiares.</li>
+                  <li>Con la suscripción al Formulario de muestra de interés en el servicio Citypaq Garaje, autoriza a HOMYHUB a incorporar su dirección de correo electrónico en nuestra lista de suscriptores (fichero automatizado). Asimismo, autoriza a HOMYHUB a enviarle comunicaciones electrónicas.</li>
+                  <li>La dirección de correo electrónico será incorporada a nuestra lista de suscriptores y será utilizada única y exclusivamente para el envío de las ofertas y comunicaciones de HOMYHUB. HOMYHUB asegura la confidencialidad de la dirección de correo aportada y garantiza que en ningún caso será cedida a terceros.</li>
+                  <li>En cumplimiento de lo dispuesto en la Ley Orgánica 14/1999 de 13 de Diciembre, de Protección de Datos de Carácter Personal, el suscriptor podrá en todo momento ejercitar los derechos de acceso, rectificación, cancelación y oposición, comunicándolo por escrito a HOMYHUB.</li>
+                  <li>Los premios no son transferibles ni canjeables por dinero en efectivo u otro artículo. Si por motivos de disponibilidad fuera imposible entregar el producto objeto del premio, HOMYHUB se reserva el derecho a sustituir el mismo por otro de características similares.</li>
+                  <li>???Legales_Dialogo05_OL10???.</li>
+                  <li>
+                     La fecha para la participación y sorteo será la siguiente: Del 29 de Abril al 15 de Junio (premio: 60 unidades del Starter Kit de HOMYHUB, y una Smart TV, fecha del sorteo
+                     <b>15 de Junio de 2019</b>
+                     )
+                  </li>
+                  <li>El sorteo se realizará en presencia del CEO de HOMYHUB Enzo Zamora y del responsable de Correos Citypaq garaje Carlos Suarez. Con el fin de evitar que el premio pudiera quedar desierto, por cada uno de los sorteos se designará un ganador y un suplente.</li>
+                  <li>Los ganadores recibirán notificación vía e-mail dentro de las dos semanas siguientes al sorteo.</li>
+                  <li>Los dispositivos y Smart TV se entregarán dentro de los 30 días siguientes a la notificación al ganador, supeditado a que durante los siguientes 30 días tras la recepción del regalo los ganadores hagan un uso del servicio Citypaq Garaje. En caso contrario se tendrá de recoger el dispositivo HOMYHUB.</li>
+                  <li>Transcurrido dos semanas desde la notificación vía e-mail al ganador y/o suplente del ganador, sin que ninguno de ellos haya establecido contacto con HOMYHUB para reclamar su premio, éste se entenderá desierto.</li>
+                  <li>Al inscribirse en el sorteo, usted acepta todas las condiciones y términos del mismo.</li>
+                  <li>HOMYHUB se reserva el derecho a modificar la fecha del sorteo, de considerarlo necesario.</li>
+               </ol>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa14dc_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','politicaPrivacidadHH',{id:'j_id1671565723_56aa14dc',resizable:false,height:'100%',position:'center, top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa1466">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa1466_title">ENVÍO DE OFERTAS Y PROMOCIONES DEL RESTO DE PRODUCTOS Y SERVICIOS DE CORREOS</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <div class="tituloCondiciones">ENVÍO DE OFERTAS Y PROMOCIONES DEL RESTO DE PRODUCTOS Y SERVICIOS DE CORREOS</div>
+            <script type="text/javascript">&lt;!--$(function() {$(document).bind('keydown', 'esc', function(){PF('ofertasCorreos').hide();;return false;});});
+//--></script>
+            <div class="modal-botones">
+               <a onclick="PF('ofertasCorreos').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa144f'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa144f">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper popupGDPR">
+               <p>En caso de que preste su consentimiento, Correos podrá remitirle por cualquier canal electrónico o no electrónico información comercial relacionadas con la prestación, mejora y actualización de nuestros productos y servicios, nuevas tarifas y descuentos.</p>
+               <p>Esta información comercial podrá ser genérica o personalizada. En este último supuesto implicará el previo tratamiento de sus datos con el objetivo de poder proceder a su perfilado y carterización, determinar gustos, preferencias y necesidades y, en base a éstas, identificar las ofertas que puedan resultar más interesantes.</p>
+               <p>
+                  En cualquier momento, podrá revocar de forma gratuita su consentimiento y no recibir nuevas ofertas y promociones indicándolo a través de correo postal a la dirección arriba expuesta o por correo electrónico a la dirección
+                  <a href="mailto:derechos.protecciondatos.correos@correos.com">derechos.protecciondatos.correos@correos.com</a>
+                  o a través de nuestro servicio de atención al cliente. Asimismo, en toda comunicación comercial electrónica se le informará, nuevamente, de su derecho a revocar su consentimiento.
+               </p>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa1466_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','ofertasCorreos',{id:'j_id1671565723_56aa1466',resizable:false,modal:true,height:'100%',position:'center,top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa1438">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa1438_title">ENVÍO DE OFERTAS Y PROMOCIONES DE OTRAS EMPRESAS DEL GRUPO CORREOS Y DE TERCERAS EMPRESAS</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <div class="tituloCondiciones">ENVÍO DE OFERTAS Y PROMOCIONES DE OTRAS EMPRESAS DEL GRUPO CORREOS Y DE TERCERAS EMPRESAS</div>
+            <script type="text/javascript">&lt;!--$(function() {$(document).bind('keydown', 'esc', function(){PF('ofertasTerceros').hide();;return false;});});
+//--></script>
+            <div class="modal-botones">
+               <a onclick="PF('ofertasTerceros').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa1419'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa1419">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper popupGDPR">
+               <p>En caso de que preste su consentimiento, Correos podrá remitirle por cualquier canal electrónico o no electrónico ofertas y promociones de:</p>
+               <ul>
+                  <li>
+                     <p>- Otras empresas del Grupo Correos que prestan servicios relacionados con los sectores de: que pertenecen a las actividades de servicios de paquetería, de valor añadido al servicio postal, logística, marketing y de telecomunicación.</p>
+                  </li>
+                  <li>
+                     <p>- Otras empresas con las que Correos haya suscrito distintos convenios de colaboración y que pueden pertenecer a sectores como telecomunicaciones, financiero, gran consumo, sanidad y ONG´S.</p>
+                  </li>
+               </ul>
+               <p>Esta información comercial podrá ser genérica o personalizada. En este último supuesto implicará el previo tratamiento de sus datos con el objetivo de poder proceder a su perfilado y carterización, determinar gustos, preferencias y necesidades y, en base a éstas, identificar las ofertas que puedan resultar más interesantes.</p>
+               <p>En cualquier momento, podrá revocar de forma gratuita su consentimiento y no recibir nuevas ofertas y promociones indicándolo a través de correo postal a la dirección arriba expuesta o por correo electrónico a la dirección derechos.protecciondatos.correos@correos.com o a través de nuestro servicio de atención al cliente. Asimismo, en toda comunicación comercial electrónica se le informará, nuevamente, de su derecho a revocar su consentimiento.</p>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa1438_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','ofertasTerceros',{id:'j_id1671565723_56aa1438',resizable:false,modal:true,height:'100%',position:'center,top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa17c2">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa17c2_title">CESIÓN DE DATOS A EMPRESAS DEL GRUPO CORREOS Y A TERCERAS EMPRESAS</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <div class="tituloCondiciones">CESIÓN DE DATOS A EMPRESAS DEL GRUPO CORREOS Y A TERCERAS EMPRESAS</div>
+            <script type="text/javascript">&lt;!--$(function() {$(document).bind('keydown', 'esc', function(){PF('cesionDatosEmpresasTerceros').hide();;return false;});});
+//--></script>
+            <div class="modal-botones">
+               <a onclick="PF('cesionDatosEmpresasTerceros').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa17ab'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa17ab">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper popupGDPR">
+               <p>En caso de que preste su consentimiento, Correos podrá comunicar sus datos a las empresas del Grupo Correos y a terceras empresas cuyos sectores se detallan en la finalidad anterior con el objetivo de que estas empresas puedan hacerle llegar, de forma directa y sin la intermediación de Correos, ofertas y promociones relativas a sus productos y servicios.</p>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa17c2_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','cesionDatosEmpresasTerceros',{id:'j_id1671565723_56aa17c2',resizable:false,modal:true,height:'100%',position:'center,top'});});
+//--></script>
+      <div class="ui-dialog ui-widget ui-widget-content ui-overlay-hidden ui-corner-all ui-shadow condiciones-dialog" id="j_id1671565723_56aa1794">
+         <div class="ui-dialog-titlebar ui-widget-header ui-helper-clearfix ui-corner-top">
+            <span class="ui-dialog-title" id="j_id1671565723_56aa1794_title">PERFILADO CON FUENTES EXTERNAS</span>
+            <a class="ui-dialog-titlebar-icon ui-dialog-titlebar-close ui-corner-all" href="#"/>
+         </div>
+         <div class="ui-dialog-content ui-widget-content">
+            <div class="tituloCondiciones">PERFILADO CON FUENTES EXTERNAS</div>
+            <script type="text/javascript">&lt;!--$(function() {$(document).bind('keydown', 'esc', function(){PF('perfiladoFuentesExternas').hide();;return false;});});
+//--></script>
+            <div class="modal-botones">
+               <a onclick="PF('perfiladoFuentesExternas').hide();;PrimeFaces.ab({source:'j_id1671565723_56aa1775'});return false;" class="ui-commandlink ui-widget" href="#" id="j_id1671565723_56aa1775">
+                  <img src="/resources/images/close.png"/>
+               </a>
+            </div>
+            <div class="condiciones-wrapper popupGDPR">
+               <p>En caso de que preste su consentimiento, Correos podrá obtener una mayor información sobre sus características, gustos y necesidades a través de la información proporcionada por distintas fuentes externas tales como Registros Públicos, Catastro, Redes Sociales, herramientas de geomarketing, bases de datos de información económica como INFORMA, ficheros de información crediticia como ASNEF, BADEXCUG con el objetivo de introducir mejoras en nuestros productos y servicios y/o adaptar o escoger las ofertas de dichos productos y servicios que mejor se ajusten a su concreto perfil.</p>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1671565723_56aa1794_s">&lt;!--$(function(){PrimeFaces.cw('Dialog','perfiladoFuentesExternas',{id:'j_id1671565723_56aa1794',resizable:false,modal:true,height:'100%',position:'center,top'});});
+//--></script>
+      <!--BOF - SUBFOOTER-3-->
+      <div data-widget="widget_j_id256786764_15435c1f" class="ui-panel ui-widget ui-widget-content ui-corner-all" id="j_id256786764_15435c1f">
+         <div class="ui-panel-content ui-widget-content" id="j_id256786764_15435c1f_content">
+            <div class="container">
+               <div class="row">
+                  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 subfooter-icon-with-text">
+                     <i class="icon-asistencia">
+                        <img src="../../../resources/images/icono_logoBlanco.png"/>
+                     </i>
+                     <h4>Correos</h4>
+                     <p>Empresa líder del mercado español por la excelencia y fiabilidad de sus servicios y su amplia oferta comercial</p>
+                     <a target="_blank" href="http://www.correos.es/ss/Satellite/site/pagina-acerca_de/sidioma=es_ES">Ir a Correos</a>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 subfooter-icon-with-text">
+                     <i class="icon-asistencia">
+                        <img src="../../../resources/images/icono_asistencia.png"/>
+                     </i>
+                     <h4>Asistencia</h4>
+                     <p>Contacta con nosotros en el 915 197 197 de lunes a viernes de 8:00 a 20:00 y sábados de 9:00 a 13:00.</p>
+                  </div>
+                  <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 subfooter-icon-with-text last">
+                     <h4>Resolvemos tus dudas</h4>
+                     <p>¿Necesitas saber algo más acerca de Citypaq? Toda la información sobre este servicio y sus posibilidades para tí.</p>
+                     <a target="_blank" href="https://www.correos.es/es/es/particulares/recibir/nuestros-puntos-de-entrega-y-recogida/citypaq#03">Preguntas frecuentes</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id256786764_15435c1f_s">&lt;!--PrimeFaces.cw('Panel','widget_j_id256786764_15435c1f',{id:'j_id256786764_15435c1f'});
+//--></script>
+      <!--EOF - SUBFOOTER-3-->
+      <div data-widget="widget_j_id1624948660_19890081" class="ui-panel ui-widget ui-widget-content ui-corner-all" id="j_id1624948660_19890081">
+         <div class="ui-panel-content ui-widget-content" id="j_id1624948660_19890081_content">
+            <div class="container">
+               <!--BOF REDES SOCIALES-->
+               <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 lista-redes-sociales">
+                     <a href="http://www.facebook.com/correos.es" target="_blank">
+                        <img alt="Compártelo en Facebook" src="/javax.faces.resource/images/official-facebook-logo-tile.png.xhtml"/>
+                     </a>
+                     <a href="http://twitter.com/correos" target="_blank">
+                        <img alt="Compártelo en Twitter" src="/javax.faces.resource/images/official-twitter-logo-tile.png.xhtml"/>
+                     </a>
+                     <a href="http://instagram.com/correos" target="_blank">
+                        <img alt="Compártelo en Instagram" src="/javax.faces.resource/images/official-instagram-logo-tile.png.xhtml"/>
+                     </a>
+                     <a href="http://www.youtube.com/user/CanalCorreos" target="_blank">
+                        <img alt="Compártelo en Youtube" src="/javax.faces.resource/images/official-youtube-logo-tile.png.xhtml"/>
+                     </a>
+                     <a href="http://www.correos.es/ss/Satellite/site/pagina-contenidos_multimedia/sidioma=es_ES" target="_blank">
+                        <img alt="Suscríbete a nuestro RSS" src="/javax.faces.resource/images/rss.png.xhtml"/>
+                     </a>
+                     <a href="mailto:?subject=CityPaq&amp;body=www.citypaq.es" target="_blank">
+                        <img alt="Compártelo por E-Mail" src="/javax.faces.resource/images/email.png.xhtml"/>
+                     </a>
+                  </div>
+               </div>
+               <!--EOF REDES SOCIALES-->
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1624948660_19890081_s">&lt;!--PrimeFaces.cw('Panel','widget_j_id1624948660_19890081',{id:'j_id1624948660_19890081'});
+//--></script>
+      <!--CorreosPaq v1.0 26/09/2014 09:15-->
+      <div data-widget="widget_j_id1291568492_29352421" class="ui-panel ui-widget ui-widget-content ui-corner-all" id="j_id1291568492_29352421">
+         <div class="ui-panel-content ui-widget-content" id="j_id1291568492_29352421_content">
+            <div class="container">
+               <div class="row">
+                  <ul>
+                     <li>
+                        <a target="_blank" onclick="enviarDatosAnaliticos('inicio');" href="/pages/auth/main.xhtml">Inicio</a>
+                     </li>
+                     <li>
+                        <a target="_blank" onclick="enviarDatosAnaliticos('condiciones-servicio');" href="https://www.correos.es/es/es/particulares/recibir/nuestros-puntos-de-entrega-y-recogida/citypaq#03">Condiciones del Servicio</a>
+                     </li>
+                     <li>
+                        <a target="_blank" onclick="enviarDatosAnaliticos('preguntas-frecuentes');" href="https://www.correos.es/es/es/particulares/recibir/nuestros-puntos-de-entrega-y-recogida/citypaq#03">Preguntas Frecuentes</a>
+                     </li>
+                     <li>
+                        <a target="_blank" onclick="enviarDatosAnaliticos('politica-privacidad');" href="http://www.correos.es/ss/Satellite/popup/pagina-privacidad/sidioma=es_ES">Política de privacidad</a>
+                     </li>
+                     <li>
+                        <a target="_blank" onclick="enviarDatosAnaliticos('politica-proteccion-datos');" href="https://www.correos.es/es/es/particulares/recibir/nuestros-puntos-de-entrega-y-recogida/citypaq#03">Política de protección de datos</a>
+                     </li>
+                     <li>
+                        <a target="_blank" onclick="enviarDatosAnaliticos('politica-cookies');" href="https://www.correos.es/es/es/legales/politica-de-cookies">Política de Cookies</a>
+                     </li>
+                     <li>
+                        <a target="_blank" onclick="enviarDatosAnaliticos('aviso-legal');" href="http://www.correos.es/ss/Satellite/popup/pagina-aviso_legal/sidioma=es_ES">Aviso Legal</a>
+                     </li>
+                  </ul>
+               </div>
+               <!--ELIMINAR FOOTER-->
+               <!--<div id="footer-logo-correos-id-sm-md-lg">
+                                <a title="Ir a Grupo Correos" href="https://www.correos.es"
+                                        id="footer-logo-link-grupocorreos-sm-md-lg" target="_blank"><img
+                                        alt="logo Grupo Correos"
+                                        src="/resources/images/correos-group.png" /> </a> <a
+                                        href="http://www.correos.es/ss/Satellite/site/pagina-grupo_empresarial_informacion_corporativa/sidioma=es_ES"
+                                        id="footer-logo-link-correos-sm-md-lg" target="_blank"
+                                        title="Ir a Correos"> <img
+                                        src="/resources/images/correos.png" alt="logo Correos" />
+                                </a> <a
+                                        href="https://www.correosexpress.com/web/correosexpress/?utm_source=homepaq&amp;utm_medium=web&amp;utm_content=enlace-logotipo&amp;utm_campaign=HomePaq_Lanzamiento_Julio14"
+                                        id="footer-logo-link-correosexpress-sm-md-lg" target="_blank"
+                                        title="Ir a Correos Express"> <img
+                                        src="/resources/images/correos-express.png"
+                                        alt="logo Correos Express" />
+                                </a> <a href="http://www.nexea.es/" id="footer-logo-link-nexea-sm-md-lg"
+                                        target="_blank" title="Ir a Nexea"> <img
+                                        src="/resources/images/nexea.png" alt="logo Nexea" />
+                                </a> <a href="http://www.correostelecom.es/"
+                                        id="footer-logo-link-telecom-sm-md-lg" target="_blank"
+                                        title="Ir a Correo Telecom"> <img
+                                        src="/resources/images/correos-telecom.png"
+                                        alt="logo Correos Telecom" />
+                                </a>
+                        </div>
+
+                        <div id="footer-logo-correos-id-xs">
+                                <a title="ir a Grupo Correos" class="col-xs-12"
+                                        href="https://www.correos.es" id="footer-logo-link-grupocorreos-xs"
+                                        target="_blank"><img
+                                        src="/resources/images/correos-group.png"
+                                        alt="logo Grupo Correos" /> </a> <a class="col-xs-6"
+                                        href="https://www.correos.es" id="footer-logo-link-correos-xs"
+                                        target="_blank" title="Ir a Correos"> <img
+                                        src="/resources/images/correos.png" alt="logo Correos" />
+                                </a> <a title="Ir a Correos Express" class="col-xs-6"
+                                        href="https://www.correosexpress.com/web/correosexpress/?utm_source=homepaq&amp;utm_medium=web&amp;utm_content=enlace-logotipo&amp;utm_campaign=HomePaq_Lanzamiento_Julio14"
+                                        id="footer-logo-link-correosexpress-xs" target="_blank"> <img
+                                        src="/resources/images/correos-express.png"
+                                        alt="logo Correos Express" />
+                                </a> <a class="col-xs-6" href="http://www.nexea.es/"
+                                        id="footer-logo-link-nexea-xs" target="_blank" title="Ir a Nexea">
+                                        <img src="/resources/images/nexea.png"
+                                        alt="logo Nexea" />
+                                </a> <a title="Ir a Correos Telecom" class="col-xs-6"
+                                        href="http://www.correostelecom.es/"
+                                        id="footer-logo-link-telecom-xs" target="_blank"> <img
+                                        src="/resources/images/correos-telecom.png"
+                                        alt="logo Correo Telecom" />
+                                </a>
+                        </div>-->
+            </div>
+         </div>
+      </div>
+      <script type="text/javascript" id="j_id1291568492_29352421_s">&lt;!--PrimeFaces.cw('Panel','widget_j_id1291568492_29352421',{id:'j_id1291568492_29352421'});
+//--></script>
+      <script src="/javax.faces.resource/stats.min.js.xhtml?ln=js" type="text/javascript">&lt;!--//--></script>
+   </body>
+</html>
